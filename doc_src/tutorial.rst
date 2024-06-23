@@ -412,7 +412,7 @@ Unlike other shells, fish does not split command substitutions on any whitespace
     -lgobject-2.0
     -lglib-2.0
 
-If you need a command substitutions output as one argument, without any splits, use quoted command substitution::
+If you need a command substitution's output as one argument, without any splits, use quoted command substitution::
 
     > echo "first line
     second line" > myfile
